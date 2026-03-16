@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Blessing_ちゃんげろソニック2026ver.",
+  "base_artist": "ちゃんげろソニック",
+  "createdAt": "2026-03-16T03:41:04.872093Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blessing_ちゃんげろソニック2026ver.",
+      "artist": "ちゃんげろソニック",
+      "has_synced": false,
+      "path": "select/pl_01_Blessing_ちゃんげろソニック2026ver._ちゃんげろソニック.txt"
+    }
+  ]
+}
